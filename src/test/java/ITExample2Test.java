@@ -3,7 +3,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 
-public class Example2IT {
+public class ITExample2Test {
 
 	@Test
 	public void testFail() {
